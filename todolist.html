@@ -4,21 +4,36 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="node_modules/bootstrap/compiler/bootstrap.css" rel="stylesheet" >
+    <link rel="stylesheet" href="assets/stylo.css">
     <title>Document</title>
 </head>
 <body>
-
-
-    <input type="text" placeholder="to do list" id="frase" >
-    <button onclick="tarefa()">Enviar</button>
-
     
-   
-   
-    <div id="aparece">
-       
+    <div class="centro mt-5">
+        <h1>Coisas a fazer</h1>
     </div>
+    <div>
+        <form id="formulario">
+            <div class=" row container  mt-4 d-flex justify-content-center">
+                <div class="offset-2 col-6">
+                    <input type="text" class="form-control" placeholder="coloque aqui suas tarefas" id="tarefa" >
+                </div>  
+                <div class="offset-1 col-3">
+                    <button class="btn btn-primary" type="submit">Enviar</button>
+                </div>
+            </div>
+        </form>   
+    </div>
+    
+
+        <div id="lista_tarefas" class="container mt-4 ml-4"></div>
+ 
+
    
 </body>
 </html>
-<script src="assets/teste02.js"></script>
+    <script src="assets/teste02.js"></script>
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.js"></script>

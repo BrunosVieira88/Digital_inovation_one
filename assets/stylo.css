@@ -1,9 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Vujahday+Script&display=swap');
 body{
     background-color: lightgray;
 }
 
-div{
-    margin-top: 50px;
-    font-size: 24px;
+.centro{
     text-align: center;
+}
+.to_list{
+    background-color: lightskyblue;
+    justify-content: right;
+
+}
+
+.direita{
+    margin-right: 5px;
+}
+.risco{
+    text-decoration: line-through;
+}
+:checked + label {
+    text-decoration: line-through;
+    color: grey;
+    margin-left: 50px;
+}
+.tamanho{
+    font-family: 'Vujahday Script', cursive;
+    justify-content: center;
+    background-color: lightsteelblue;
+    width: 50%;
+    margin-left: 5%;
+    margin-top: 3px;
+    box-shadow: 10px 5px 5px black;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.esquerda{
+    margin-left: 20px;
+}
+
+label{
+    margin-left: 10px;
 }
