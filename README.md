@@ -13,5 +13,5 @@
 ![gatos](gatos.JPG)
 
 
-<h3>Tratamento de erros  e javaScript orientado a objetos \n
+<h3>Tratamento de erros  e javaScript orientado a objetos <br>
   Uso de exercicios com Map Filter e Reduce em javaScript</h3>
