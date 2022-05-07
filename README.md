@@ -6,11 +6,11 @@
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-Projeto onde consumimos uma api para fazer um pagina onde aparece um gato aleatorio 
+<h3>Projeto onde consumimos uma api para fazer um pagina onde aparece um gato aleatorio </h3>
 
 Tratamento de erros  e javaScript orientado a objetos 
 
-![gatos](gatos.JPG);
+![gatos](gatos.JPG)
 
 
-Uso de exercicios com Map Filter e Reduce em javaScript
+<h3>Uso de exercicios com Map Filter e Reduce em javaScript</h3>
