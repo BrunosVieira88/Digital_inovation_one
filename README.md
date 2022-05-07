@@ -9,5 +9,8 @@
 Projeto onde consumimos uma api para fazer um pagina onde aparece um gato aleatorio 
 
 Tratamento de erros  e javaScript orientado a objetos 
+
+![gatos](gatos.JPG);
+
+
 Uso de exercicios com Map Filter e Reduce em javaScript
-![gatos](gatos.JPG)
