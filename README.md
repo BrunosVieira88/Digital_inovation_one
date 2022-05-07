@@ -8,9 +8,10 @@
 </div>
 <h3>Projeto onde consumimos uma api para fazer um pagina onde aparece um gato aleatorio </h3>
 
-Tratamento de erros  e javaScript orientado a objetos 
+ 
 
 ![gatos](gatos.JPG)
 
 
-<h3>Uso de exercicios com Map Filter e Reduce em javaScript</h3>
+<h3>Tratamento de erros  e javaScript orientado a objetos \n
+  Uso de exercicios com Map Filter e Reduce em javaScript</h3>
