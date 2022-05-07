@@ -7,6 +7,7 @@
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 Projeto onde consumimos uma api para fazer um pagina onde aparece um gato aleatorio 
- ![gatos](gatos.JPG)
+
 Tratamento de erros  e javaScript orientado a objetos 
 Uso de exercicios com Map Filter e Reduce em javaScript
+![gatos](gatos.JPG)
